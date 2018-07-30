@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,yosay",
+    "logging_enabled": "false",
+    "name": "yosaySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "yosaySmokeTest.js"
+}
